@@ -12,8 +12,9 @@ body {
     background: linear-gradient(to bottom, #0716e6, #ffdc18);
     color: rgb(7, 24, 126);
 
-.caixa-cadastro{
-    width: 500px;
+.caixa-cadastro {
+    width: 90%;
+    max-width: 500px;
     margin: 2px auto;
     padding: 20px;
     background: rgba(0,0,0,0.6);
@@ -28,9 +29,9 @@ body {
 }
 
 .caixa-cadastro input{
-    width: 90%;
-    padding: 10px;
-    margin: 10px 0;
+    width: 100%;
+    padding: 12px;
+    margin: 16px 0;
     border-radius: 5px;
     border: none;
 }
